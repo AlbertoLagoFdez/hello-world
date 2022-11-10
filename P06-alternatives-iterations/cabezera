@@ -1,0 +1,13 @@
+/**
+ * Universidad de La Laguna
+ * Escuela Superior de Ingeniería y Tecnología
+ * Grado en Ingeniería Informática
+ * Informática Básica
+ *
+ * @author F. de Sande
+ * @date Nov 3 2021
+ * @brief A first Function example
+ *        The program defines the SumSerie() function that computes the
+ *        sum of 1+2+3+...+N for a given N
+*/
+
