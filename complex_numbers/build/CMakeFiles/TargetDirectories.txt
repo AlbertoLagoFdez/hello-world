@@ -1,0 +1,3 @@
+/home/alberto/Escritorio/Code/Hoja4/complex_numbers/build/CMakeFiles/complex.dir
+/home/alberto/Escritorio/Code/Hoja4/complex_numbers/build/CMakeFiles/edit_cache.dir
+/home/alberto/Escritorio/Code/Hoja4/complex_numbers/build/CMakeFiles/rebuild_cache.dir
