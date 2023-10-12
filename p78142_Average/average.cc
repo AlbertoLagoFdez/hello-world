@@ -4,4 +4,6 @@
 #include <iostream>
 
 int main() {
-	double unsigned 
+	double unsigned; 
+	return 0;
+}
